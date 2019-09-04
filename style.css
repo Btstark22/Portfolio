@@ -62,3 +62,55 @@ nav a::before {
 nav a:hover::before {
     width: 100%;
 }
+#about-me-div {
+    color: #55d6aa;
+    border: solid #55d6aa;
+    border-radius: 20px;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    padding-bottom: 10px;;
+    overflow: auto;
+}
+#about-me {
+    margin-left: 25px;
+    text-decoration: underline;
+    text-decoration-color: #55d6aa;
+}
+.about-me-p {
+    margin-left: 25px;
+    margin-right: 25px;
+    text-indent: 50px;
+    margin-top: 40px;
+    text-align: left;
+    position: relative;
+    line-height: 20px;
+}
+#kissy-img {
+    margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 15px;
+    float: left;
+}
+#nutri-tracker {
+    color: #55d6aa;
+    text-decoration: none;
+    font-size: 20px;
+}
+li {
+    color: #55d6aa;
+}
+#linkedin {
+    color: #55d6aa;
+    text-decoration: none;
+    font-size: 20px;
+}
+#github {
+    color: #55d6aa;
+    text-decoration: none;
+    font-size: 20px;
+}
+#contact-h2 {
+    color: #55d6aa;
+    text-decoration: none;
+}
